@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta property='fb:pages' content='186408071394787' />
+<meta property='fb:app_id' content='666850036731103' />
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+<title>Army of Two The 40th Day para PS3 - Xbox 360 - PSP | 3DJuegos</title>
+<meta name='Language' content='es' />
+<meta name='Content-Language' content='es' />
+<meta name='description' content='Army of Two: The 40th Day. Todas las noticias, videos gameplay, imágenes, fecha de lanzamiento, análisis, opiniones, guías y trucos sobre Army of Two The 40th Day en 3DJuegos.' />
+<link rel='canonical' href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/'/>
+<link rel='image_src' type='image/jpeg' href='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695747.jpg' />
+<meta name='robots' content='index,follow' />
+<meta property='og:type' content='game' />
+<meta property='og:title' content="Army of Two The 40th Day para PS3 - Xbox 360 - PSP | 3DJuegos" />
+<meta property='og:description' content='Army of Two: The 40th Day. Todas las noticias, videos gameplay, imágenes, fecha de lanzamiento, análisis, opiniones, guías y trucos sobre Army of Two The 40th Day en 3DJuegos.' />
+<meta property='og:image' content='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695747.jpg' />
+<meta property='og:site_name' content='3DJuegos' />
+<meta name='twitter:title' content="Army of Two The 40th Day para PS3 - Xbox 360 - PSP | 3DJuegos">
+<meta name='twitter:description' content='Army of Two: The 40th Day. Todas las noticias, videos gameplay, imágenes, fecha de lanzamiento, análisis, opiniones, guías y trucos sobre Army of Two The 40th Day en 3DJuegos.' />
+<meta name='twitter:image:src' content='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695747.jpg' />
+<meta name='twitter:site' content='@3djuegos' />
+<meta property='article:section' content='videojuegos' />
+<link rel='icon' href='/favicon.png' type='image/png' />
+<link rel='apple-touch-icon' href='/favicon_ios.png' />
+<link rel='manifest' href='/manifest.json'>
+<link rel='preconnect' href='https://sdk.privacy-center.org' />
+<link rel='dns-prefetch' href='https://sdk.privacy-center.org' />
+<link rel='preconnect' href='https://www.googletagservices.com' />
+<link rel='dns-prefetch' href='https://www.googletagservices.com' />
+<link rel='preconnect' href='https://securepubads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='https://securepubads.g.doubleclick.net' />
+<link rel='preconnect' href='https://fonts.gstatic.com' />
+<link rel='dns-prefetch' href='https://fonts.gstatic.com' />
+<link rel='preconnect' href='https://www.googletagmanager.com' />
+<link rel='dns-prefetch' href='https://www.googletagmanager.com' />
+<link rel='stylesheet' type='text/css' href='https://img.weblogssl.com/3djuegos/cssmain/4e106604.css'>
+
+<script>
+    dataLayerKrux = {
+    "page": {
+        "3DJ_page_type": "game_overview",
+        "3DJ_platform": "ps3",
+        "3DJ_pegi": "18",
+        "3DJ_game_name": "army-of-two-the-40th-day",
+        "3DJ_game_id": "5253",
+        "3DJ_game_genre": null,
+        "3DJ_game_publisher": [
+            "ea",
+            "ea-montreal"
+        ],
+        "3DJ_tags": [
+            "ps3",
+            null,
+            "ea",
+            "ea-montreal"
+        ]
+    }
+}
+
+    var dataLayer = dataLayer || [];
+
+    if (dataLayerKrux.page)
+        dataLayer.push(dataLayerKrux.page);
+
+    if (dataLayerKrux.user)
+        dataLayer.push(dataLayerKrux.user);
+
+</script>
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5FR436');</script>
+<!-- End Google Tag Manager --><script>var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];var jsr=[]; var timestamp_server=1700312441, movil = 0; </script>	
+	
+    
+		<script type="text/javascript">
+        var gdprAppliesGlobally = true;
+
+         (function() {
+          function n() {
+           if (!window.frames.__cmpLocator) {
+            if (document.body && document.body.firstChild) {
+             var e = document.body;
+             var t = document.createElement("iframe");
+             t.style.display = "none";
+             t.name = "__cmpLocator";
+             t.title = "cmpLocator";
+             e.insertBefore(t, e.firstChild)
+            } else {
+             setTimeout(n, 5)
+            }
+           }
+          }
+
+          function e(e, t, n) {
+           if (typeof n !== "function") {
+            return
+           }
+           if (!window.__cmpBuffer) {
+            window.__cmpBuffer = []
+           }
+           if (e === "ping") {
+            n({
+             gdprAppliesGlobally: window.gdprAppliesGlobally,
+             cmpLoaded: false
+            }, true)
+           } else {
+            window.__cmpBuffer.push({
+             command: e,
+             parameter: t,
+             callback: n
+            })
+           }
+          }
+          e.stub = true;
+
+          function t(r) {
+           if (!window.__cmp || window.__cmp.stub !== true) {
+            return
+           }
+           if (!r.data) {
+            return
+           }
+           var a = typeof r.data === "string";
+           var e;
+           try {
+            e = a ? JSON.parse(r.data) : r.data
+           } catch (t) {
+            return
+           }
+           if (e.__cmpCall) {
+            var o = e.__cmpCall;
+            window.__cmp(o.command, o.parameter, function(e, t) {
+             var n = {
+              __cmpReturn: {
+               returnValue: e,
+               success: t,
+               callId: o.callId
+              }
+             };
+             r.source.postMessage(a ? JSON.stringify(n) : n, "*")
+            })
+           }
+          }
+          if (typeof window.__cmp !== "function") {
+           window.__cmp = e;
+           if (window.addEventListener) {
+            window.addEventListener("message", t, false)
+           } else {
+            window.attachEvent("onmessage", t)
+           }
+          }
+          n()
+         })();
+
+         (function(e) {
+          var t = document.createElement("script");
+          t.id = "spcloader";
+          t.type = "text/javascript";
+          t.async = true;
+          t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target=" + document.location.hostname;
+          t.charset = "utf-8";
+          var n = document.getElementsByTagName("script")[0];
+          n.parentNode.insertBefore(t, n)
+         })("7bd10a97-724f-47b3-8e9f-867f0dea61c8");
+
+         function scrollListener(e) {
+          var o = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight || 0,
+           n = Math.max(document.body.scrollHeight || 0, document.documentElement.scrollHeight || 0, document.body.offsetHeight || 0, document.documentElement.offsetHeight || 0, document.body.clientHeight || 0, document.documentElement.clientHeight || 0);
+          30 <= (window.pageYOffset || document.body.scrollTop || document.documentElement.scrollTop || 0) / (n - o) * 100 && (Didomi.setUserAgreeToAll(), window.removeEventListener("scroll", scrollListener))
+         }
+
+         window.didomiOnReady = window.didomiOnReady || [], window.didomiOnReady.push(function(e) {
+          e.notice.isVisible() && window.addEventListener("scroll", scrollListener)
+         });
+
+</script>
+    
+<script type="didomi/javascript">
+ if (!window.frames['__tcfapiLocator']) {
+       if (document.body) {
+         var body = document.body,
+           iframe = document.createElement('iframe');
+         iframe.style.cssText = 'display:none';
+         iframe.name = '__tcfapiLocator';
+         body.appendChild(iframe);
+       } }
+
+</script>
+    <script type="text/javascript" async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    
+            <script src='//img.weblogssl.com/3djuegos/vendor/prebid-v3.27.0.js' async='async'></script>
+            <script type="text/javascript">
+
+			var adUnits = [{"bids":[{"bidder":"appnexus","params":{"placementId":"21365412","reserve":1}},{"bidder":"rubicon","params":{"accountId":"23588","floor":1,"siteId":"379694","zoneId":"2102952"}},{"bidder":"richaudience","params":{"pid":"UOZUCdoZcI","supplyType":"site"}},{"bidder":"smartadserver","params":{"bidfloor":1,"domain":"\/\/prg.smartadserver.com","formatId":"100180","pageId":"1370461","siteId":"331947"}},{"bidder":"eplanning","params":{"ci":"3816e","sn":"3DX-M-TOP-Portada"}}],"code":"dfp-masthead","mediaTypes":{"banner":{"sizes":[[970,250],[728,90],[970,90]]}}},{"bids":[{"bidder":"appnexus","params":{"placementId":"21365413","reserve":1}},{"bidder":"rubicon","params":{"accountId":"23588","floor":1,"siteId":"379694","zoneId":"2102938"}},{"bidder":"richaudience","params":{"pid":"mcQsnCojpf","supplyType":"site"}},{"bidder":"smartadserver","params":{"bidfloor":1,"domain":"\/\/prg.smartadserver.com","formatId":"100181","pageId":"1370461","siteId":"331947"}},{"bidder":"eplanning","params":{"ci":"3816e","sn":"3DX-M-ATF-Portada"}}],"code":"dfp-atf","mediaTypes":{"banner":{"sizes":[[300,600],[300,250]]}}},{"bids":[{"bidder":"appnexus","params":{"placementId":"21365414","reserve":0.5}},{"bidder":"rubicon","params":{"accountId":"23588","floor":0.5,"siteId":"379694","zoneId":"2102948"}},{"bidder":"richaudience","params":{"pid":"b8GVOmnXr7","supplyType":"site"}},{"bidder":"smartadserver","params":{"bidfloor":0.5,"domain":"\/\/prg.smartadserver.com","formatId":"100182","pageId":"1370461","siteId":"331947"}},{"bidder":"eplanning","params":{"ci":"3816e","sn":"3DX-M-MTF-Portada"}}],"code":"dfp-mtf","mediaTypes":{"banner":{"sizes":[[300,600],[300,250]]}}},{"bids":[{"bidder":"appnexus","params":{"placementId":"21365415","reserve":0.5}},{"bidder":"rubicon","params":{"accountId":"23588","floor":0.5,"siteId":"379694","zoneId":"2102942"}},{"bidder":"richaudience","params":{"pid":"vMn09C0QGY","supplyType":"site"}},{"bidder":"smartadserver","params":{"bidfloor":0.5,"domain":"\/\/prg.smartadserver.com","formatId":"100183","pageId":"1370461","siteId":"331947"}},{"bidder":"eplanning","params":{"ci":"3816e","sn":"3DX-M-BTF-Portada"}}],"code":"dfp-btf","mediaTypes":{"banner":{"sizes":[[300,600],[300,250]]}}},{"bids":[{"bidder":"appnexus","params":{"placementId":"21365416","reserve":0.3}},{"bidder":"rubicon","params":{"accountId":"23588","floor":0.3,"siteId":"379694","zoneId":"2102946"}},{"bidder":"richaudience","params":{"pid":"DT7Dsi6FH2","supplyType":"site"}},{"bidder":"smartadserver","params":{"bidfloor":0.3,"domain":"\/\/prg.smartadserver.com","formatId":"100184","pageId":"1370461","siteId":"331947"}},{"bidder":"eplanning","params":{"ci":"3816e","sn":"3DX-M-FTR-Portada"}}],"code":"dfp-footer","mediaTypes":{"banner":{"sizes":[[970,250],[970,90],[728,90]]}}}];
+			var PREBID_TIMEOUT = 3000;
+			var pbjs = pbjs || {};
+			pbjs.que = pbjs.que || [];
+			googletag.cmd.push(function() { googletag.pubads().disableInitialLoad(); });
+
+			pbjs.bidderSettings = {
+                rubicon:       { bidCpmAdjustment: function(bidCpm) { return 0.9 * bidCpm; } }
+            };
+
+			pbjs.que.push(function() {
+				pbjs.setConfig({
+					priceGranularity: 'dense',
+					consentManagement: {
+                        cmpApi: 'iab',
+                        timeout: 2000,
+                        defaultGdprScope: true
+					}
+				});
+			});
+
+
+			// amazon
+  			!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q('i',arguments)},fetchBids:function(){q('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js');
+
+  			// initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+//  			   Have apstag apstag and initialize bids in September on the googletag slots returned to When They are the page (Translated)
+  			apstag.init({
+  				pubID: '3500',
+  				adServer: 'googletag',
+  				bidTimeout: 2e3
+  			});
+  			
+  			// request the bids for the four googletag slots
+//  			   The request bids for the four slots googletag (Translated)
+			var apstagSlots = [
+  					{
+  					slotID: 'dfp-masthead',
+  					slotName: '/21727618831/3DJuegos/gamepage/game_overview',
+  					sizes: [[970, 250],[728, 90]]
+  				},{
+  					slotID: 'dfp-atf',
+  					slotName: '/21727618831/3DJuegos/gamepage/game_overview',
+  					sizes: [[300, 600],[300, 250]]
+  				},{
+  					slotID: 'dfp-mtf',
+  					slotName: '/21727618831/3DJuegos/gamepage/game_overview',
+  					sizes: [[300, 600],[300, 250]]
+  				},{
+  					slotID: 'dfp-btf',
+  					slotName: '/21727618831/3DJuegos/gamepage/game_overview',
+  					sizes: [[300, 600],[300, 250]]
+  				},{
+  					slotID: 'dfp-footer',
+  					slotName: '/21727618831/3DJuegos/gamepage/game_overview',
+  					sizes: [[970, 250],[970, 90],[728, 90]]
+  				}
+  			];
+
+            (function() {
+              var bidders = ['a9', 'prebid'];
+              var requestManager = { adserverRequestSent: false };
+              bidders.forEach(function(bidder) { requestManager[bidder] = false; });
+              function _getGPTSlots(apstagSlots) {
+               var slotIDs = apstagSlots.map(function(slot) { return slot.slotID; });
+               return googletag.pubads().getSlots().filter(function(slot) {
+                return slotIDs.indexOf(slot.getSlotElementId()) > -1;
+               });
+              }
+              function allBiddersBack() {
+               var allBiddersBack = bidders
+                .map(function(bidder) { return requestManager[bidder]; })
+                .filter(Boolean)
+                .length === bidders.length;
+               return allBiddersBack;
+              }
+              function headerBidderBack(bidder) {
+               if (requestManager.adserverRequestSent === true) { return; }
+               if (bidder === 'a9') {
+                requestManager.a9 = true;
+               } else if (bidder === 'prebid') {
+                requestManager.prebid = true;
+               }
+               if (allBiddersBack()) { sendAdserverRequest(); }
+              }
+              function sendAdserverRequest() {
+               if (requestManager.adserverRequestSent === true) { return; }
+               requestManager.adserverRequestSent = true;
+               pbjs.adserverRequestSent = true;
+               requestManager.sendAdserverRequest = true;
+               googletag.cmd.push(function() {
+                     apstag.setDisplayBids();
+                 pbjs.onEvent('setTargeting', function() { googletag.pubads().refresh(); });
+                 pbjs.setTargetingForGPTAsync();
+                       });
+              }
+              function requestBids(apstagSlots, adUnits, bidTimeout) {
+               pbjs.que.push(function() {
+                pbjs.addAdUnits(adUnits);
+                pbjs.requestBids({ bidsBackHandler: function (bidResponses) { headerBidderBack('prebid'); } });
+               });
+                   apstag.fetchBids({ slots: apstagSlots, timeout: bidTimeout }, function(bids) { headerBidderBack('a9'); });
+                 }
+              requestBids(apstagSlots, adUnits, PREBID_TIMEOUT)
+              setTimeout(function() { sendAdserverRequest(); }, PREBID_TIMEOUT);
+            })();
+          </script>
+		
+<script>
+	googletag.cmd.push(function() {
+		var g = '/21727618831/3DJuegos/gamepage/game_overview';
+		
+		googletag.defineSlot(g, [[1008, 250],[1008, 350],[970, 250],[728, 90],[2, 1],[1, 1]], 'dfp-masthead').setTargeting("Pos", ["top"]).addService(googletag.pubads());// masthead
+		googletag.defineSlot(g, [[300, 600],[300, 250]], 'dfp-atf').setTargeting("Pos", ["1"]).addService(googletag.pubads()); // mpu atf
+		googletag.defineSlot(g, [[300, 600],[300, 250]], 'dfp-mtf').setTargeting("Pos", ["2"]).addService(googletag.pubads()); // mpu mtf
+		googletag.defineSlot(g, [[300, 600],[300, 250]], 'dfp-btf').setTargeting("Pos", ["3"]).addService(googletag.pubads()); // mpu btf
+		googletag.defineSlot(g, [[970, 250],[970, 90],[728, 90]], 'dfp-footer').setTargeting("Pos", ["footer"]).addService(googletag.pubads()); // masthead_footer
+		googletag.defineSlot(g, [[1,1]], 'dfp-thin').setTargeting("Pos", ["thin"]).addService(googletag.pubads()); // thin_Banner[624,78]
+		googletag.defineSlot(g, [[1,1]], 'dfp-inread').setTargeting("Pos", ["inread"]).addService(googletag.pubads()); // inread
+		googletag.defineSlot(g, [[1,1]], 'dfp-cintillo').setTargeting("Pos", ["cintillo"]).addService(googletag.pubads()); // cintillo
+		googletag.defineSlot(g, [[1,1]], 'dfp-interstitial').setTargeting("Pos", ["interstitial"]).addService(googletag.pubads()); // interstitial
+		googletag.defineSlot(g, [[1,1]], 'dfp-oop').setTargeting("Pos", ["oop"]).addService(googletag.pubads()); // out_of_page
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().setTargeting("console_name", ["ps3"]).setTargeting("publisher", ["ea"]).setTargeting("genre", ["acción","shooter","acción-táctica"]).setTargeting("game", ["army-of-two-the-40th-day"]).setTargeting("url_sha1", "16ee8bb93fde38310e1f2df7e80e44e39b950329");
+
+        googletag.enableServices();
+
+	});
+
+	
+		(function(n,v,g){o='Navegg';if(!n[o]){
+		a=v.createElement('script');a.src=g;b=document.getElementsByTagName('script')[0];
+		b.parentNode.insertBefore(a,b);n[o]=n[o]||function(parms){
+		n[o].q=n[o].q||[];n[o].q.push([this, parms])};} })
+		(window, document, 'https://tag.navdmp.com/universal.min.js');
+		window.naveggReady = window.naveggReady||[];
+		window.nvg51819 = new Navegg({
+		acc: 51819
+		});
+		
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "id": "https://www.3djuegos.com",
+                "name": "3DJuegos"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "id": "https://www.3djuegos.com/ps3/",
+                "name": "PS3"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "id": "https://www.3djuegos.com/juegos/",
+                "name": "Videojuegos"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "id": "https://www.3djuegos.com/ps3/juegos/",
+                "name": "Juegos PS3"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "id": "https://www.3djuegos.com/ps3/juegos-accion/",
+                "name": "Juegos Acción"
+            }
+        }
+    ]
+}
+</script>
+<script async src="https://cdn.insurads.com/bootstrap/4UEIXO4Z.js"></script><script> var dfp={ruta_tag:'/21727618831/3DJuegos/gamepage/game_overview',console:'ps3'}</script><script src='https://img.weblogssl.com/3djuegos/jsmain/4e106604.js' async='async'></script>
+<script src="https://geo.dailymotion.com/libs/player/x7lwy.js"></script><style>.col_plat, a.col_hover:hover, .a_col_plat_hover a:hover, a, .col_plat_ini_end:before, .col_plat_ini_end:after, .article_body0 p:nth-of-type(2):first-letter, .article_body1 p:nth-of-type(2):first-letter, .ob-widget-header::first-line {color:#B42C2C}.col_plat_i {color:#B42C2C !important}.tit_dest, .bg_col_plat, .bg_col_plat_a a:hover {background-color:#B42C2C}.num_page a:hover {background-color:#B42C2C}.a_linea, .a_linea a {border-bottom:1px dotted #B42C2C; padding:0 2px}.a_linea:hover, .a_linea a:hover {background-color:#B42C2C; color:#fff; text-decoration:none; border-radius:2px; padding:0 2px}</style>
+<script type="text/javascript" data-vendor="iab:42">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/webediaes-network/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script></head>
+
+<body id='body' class='pr min_1018 juegos_bg2' ><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FR436"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id='visor_img_container'></div><div id='dia'></div><div id='fb-root'></div>
+
+<script>
+var cs_ucfr = "0"
+var _comscore = _comscore || [];
+var configs = {c1: "2", c2: "6035191", cs_ucfr:cs_ucfr};
+var keyword = keyword || "";
+if(keyword) {
+configs.options = {url_append: "comscorekw=" + keyword};
+}
+_comscore.push(configs);
+var s = document.createElement("script")
+el = document.getElementsByTagName("script")[0];
+s.async = true;
+s.src = " https://sb.scorecardresearch.com/cs/6035191/beacon.js";
+</script>
+<script> </script>
+<div id='contenido'><header id='header_main'><div id='cab' ><div class='dc pr' style='width:1022px'><span class='uAr06vA 1F' id='logo3djuegos'></span><form name='form_busca_juego' id='form_busca_juego' method='get' action='/'><div id='buscador' class='pr tac'><div id='bg_buscador' class='bg off'><div class='fl oh' style='width:240px'><input type='text' name='q' value='' id='bus_superior' maxlength='74' onfocus="document.getElementById('bg_buscador').className='bg on';" onblur="document.getElementById('bg_buscador').className='bg off';" onKeyPress="if(event.keyCode == 13) {check_cjk('form_busca_juego', 'bus_superior'); return false;}" /><input type='hidden' name='zona' value='resultados-buscador' /><input type='hidden' name='ni' value='1' /></div><span onclick="check_cjk('form_busca_juego', 'bus_superior');"></span></div></div></form><script> jsr.push(function() {autocomplete('#bus_superior','buscar-juegos')}); </script><div id='cab_cc' class='ffnav s12 b tac salta'><span class='txt db upp' id='boton_selecc_paises_1'><span>Español (</span>ES<span>)</span><span class='flecha2_b dib pr t_2 mar_l4'></span></span><div class='pr s11 a_n c8 fftit tal t_10'><ul id='opciones_selecc_paises_1' class='menu_estado_opc scale_right opc_msg' style='width:136px'><li><a href='#' onclick="set_cc('es', 'es', 0, 0); return false;">Español (España)</a></li><li><a href='#' onclick="set_cc('mx', 'es', 0, 0); return false;">Español (México)</a></li></ul></div></div><script> jsr.push(function() {init_menu_desplegable(1,'selecc_paises')}) </script>
+<div id='cab_usu'><div class='cab_avatar'></div><div class='s12 c6F mar_t4 a_n a_c0c'></div></div><div id='opc_main' class='pr l2 zi1 cb'><div class='sep_ini'></div><div class='opc_off' style='width:63px'><a href='/'  target='_self'>Inicio</a></div><div class='sep_off'></div><div class='opc_off' style='width:54px'><a href='/pc/' title='PC' target='_self'>PC</a></div><div class='sep_off'></div><div class='opc_off' style='width:56px'><a href='/ps5/' title='PS5' target='_self'>PS5</a></div><div class='sep_off'></div><div class='opc_off' style='width:56px'><a href='/ps4/' title='PS4' target='_self'>PS4</a></div><div class='sep_off'></div><div class='opc_off' style='width:78px'><a href='/xbox-series-xs/' title='Xbox Series' target='_self'>XSeries</a></div><div class='sep_off'></div><div class='opc_off' style='width:64px'><a href='/xbox-one/' title='Xbox One' target='_self'>XOne</a></div><div class='sep_off'></div><div class='opc_off' style='width:69px'><a href='/nintendo-switch/' title='Nintendo Switch' target='_self'>Switch</a></div><div class='sep_off'></div><div class='opc_off' style='width:52px'><a href='/ios/' title='iOS' target='_self'>iOS</a></div><div class='sep_off'></div><div class='opc_off' style='width:76px'><a href='/android/' title='Android' target='_self'>Android</a></div><div class='sep_off'></div><div class='opc_off' style='width:88px'><a href='https://www.3djuegos.com/novedades/noticias/juegos/0f0f0f0/fecha/'  target='_self'>Noticias</a></div><div class='sep_off'></div><div class='opc_off' style='width:74px'><a href='https://www.3djuegos.com/videos/'  target='_self'>Videos</a></div><div class='sep_off'></div><div class='opc_off' style='width:72px'><a href='/foros/'  target='_blank'>Foros</a></div><div class='sep_off'></div><div class='opc_off' style='width:88px'><span class='uAr06vA 1F444FC14FC21F46494B43C519C045C02FCD4F494A2E46494642464AC13FC243C2464F49'><b class='txt_comu fw5'></b></span></div></div></div><div class='dc he30' style='width:1018px'><div class='subopc bg cb sub_b2 lsn'> <div class='bg ini sub_a2'></div><ul><li><a href='/juegos/ps3/' class='c2b opc_sub' title='Portada PS3'>Portada</a></li> <li><a href='https://www.3djuegos.com/novedades/noticias/juegos-ps3/0f2f0f0/fecha/' class='c2b opc_sub' title='Noticias PS3'>Noticias</a></li> <li><a href='https://www.3djuegos.com/ps3/videos/' class='c2b opc_sub' title='Videos PS3'>Videos</a></li> <li><a href='/novedades/imagenes/juegos-ps3/0f2f0f0/fecha/' class='c2b opc_sub' title='Imágenes PS3'>Imágenes</a></li> <li><a href='/novedades/analisis/juegos-ps3/0f2f0f0/fecha/' class='c2b opc_sub' title='Análisis PS3'>Análisis</a></li> <li><a href='https://www.3djuegos.com/novedades/especiales/juegos-ps3/0f2f0f0/fecha/' class='c2b opc_sub' title='Artículos y Reportajes PS3'>Artículos y Reportajes</a></li> <li><a href='/novedades/tecnologia/juegos/0f0f0f0/fecha/' class='c2b opc_sub' title='Hardware PS3'>Hardware</a></li> <li><a href='https://www.3djuegos.com/trucos-juegos-ps3/2/todos/' class='c2b opc_sub' title='Guías PS3'>Guías</a></li> <li><a href='https://www.3djuegos.com/trucos-juegos-ps3/2/trucos/' class='c2b opc_sub' title='Trucos PS3'>Trucos</a></li> <li><a href='https://www.3djuegos.com/ps3/juegos/' class='c2b opc_sub' title='Todos los Juegos PS3'>Todos los Juegos</a></li> <li><a href='https://www.3djuegos.com/top-100/ps3/' class='c2b opc_sub' title='Top100 PS3'>Top100</a></li> <li><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19C5CBC14A4846444319424F4E c2b opc_sub txt_tienda'></span></li> <li><a href='/lanzamientos/ps3/proximos/' class='c2b opc_sub' title='Lanzamientos PS3'>Lanzamientos</a></li> </ul><div class='bg end sub_c2'></div></div></div></div></header><div class='pa cb db zi1 wi100' id='zona_skin'><div style='background:url(https://i.3djuegos.com/img3/piezas/backgrounds/web_v2/inicio_2.png) no-repeat center; height:133px'></div></div><div class='tac  pr zi1 wi100' id='dfp-cintillo'> <script> googletag.cmd.push(function() { googletag.display('dfp-cintillo'); }); </script> </div><div class='aqui_skin tac' id='sc-skin-container'><div class='s0 wi100 tac ad ad-top'><div class='tac  dib ad-box' id='dfp-masthead'> <script> googletag.cmd.push(function() { googletag.display('dfp-masthead'); }); </script> </div></div><div class='tabla_main dib' id='borde_padre'><div style='border:1px solid #000'><div class='bor36 pad_4 bgc0' id='div_main'><nav class='ffnav bg_nav bg_nav_2 c2o a_c2o'><div class='nw oh ellipsis'><ol class='list_nav di'><li><a href='https://www.3djuegos.com' title="3DJuegos">3DJuegos</a> / </li><li><a href='https://www.3djuegos.com/ps3/' title="PS3">PS3</a> / </li><li><a href='https://www.3djuegos.com/juegos/' title="Videojuegos">Videojuegos</a> / </li><li><a href='https://www.3djuegos.com/ps3/juegos/' title="Juegos PS3">Juegos PS3</a> / </li><li><a href='https://www.3djuegos.com/ps3/juegos-accion/' title="Juegos Acción">Juegos Acción</a> / </li><li><span title="Army of Two The 40th Day PS3">Army of Two The 40th Day PS3</span></li></ol></div></nav><div class='dt c7 wi100 bg_pat_pl2 cab_gs brillo_cab'><div class='cab_img dtc'><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F crop2' title='Army of Two: The 40th Day'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-699653.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-699653.jpg')" width='140' height='105' alt='Army of Two: The 40th Day' /></span></div><div class='dtc vab oh'><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/' class='s30 cF u_off ts11102 fftit mar_l2'><strong>Army of Two: The 40th Day</strong></a><div class='he30 s13 c2o cb mar_t3 mar_l2 d_fl a_n a_cFh fftit'><div>Fecha de lanzamiento: <span class='uAr06vA 1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F444342454A1E484A49CD4A4E464349CB4F1F c2o'>28 de enero de 2010</span></div><div><div><span class='b cF mar_rl4'> · </span>Plataforma</div><div class='flecha3x5 pr t5 mar_l5 mar_r3'></div><span class='c2o cab_plat_off'>PS3</span><span class='c2o cab_plat_off'>X360</span><span class='c2o cab_plat_off'>PSP</span></div></div><div class='gs'><ul class='pl2'><li><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/' class=' a on' ><span class='span'><b>Ficha</b></span></a></li><li><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/analisis' class=' a normal'  title="Army of Two The 40th Day - Análisis PS3"><span class='span'><b>Análisis</b></span></a></li><li><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/noticias' class=' a normal' ><span class='span'><b>Noticias</b></span></a></li><li><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/videos/' class=' a normal'  title="Videos de Army of Two The 40th Day - PS3"><span class='span'><b>Videos</b></span></a></li><li><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/imagenes/' class=' a normal' ><span class='span'><b>Imágenes</b></span></a></li><li><span class=' a off' ><span class='span'><b>Guía Completa</b></span></span></li><li><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/guias-y-trucos' class=' a normal'  title="Army of Two The 40th Day - Trucos PS3"><span class='span'><b>Trucos</b></span></a></li><li><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/conexiones/' class=' a normal' ><span class='span'><b>Conexiones</b></span></a></li><li><a href='https://www.3djuegos.com/foro-de/4903/0/army-of-two-the-40th-day/' class=' a normal' ><span class='span'><b>Foro del juego</b></span></a></li></ul></div></div></div><div class='bgcF pad_nav'><div id='tb926'><div class='izq2'><div class='barra36 mar_rl5 ffnav upp'><div class='txt nw oh'>Sobre el juego</div></div><div class='mar_10'><article><div class='wi100 oh cb he32 pr nw s16'><div class='sub_barra26 pa wi100'><div class='izq'></div><div class='der'></div></div><div class='pad_4 b pr'><div class='b c6 s11 pr t_2 fftit'>También conocido como: <span class='c4'>Army of Two 2</span></div></div></div><div class='wi100 mar_t8 fftit s13'><div class='fl vat db480 w100_480 tac'><span class='uAr06vA 1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F424AC14ACBC3484A1F'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695748.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695748.jpg')" data-src-img='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695747.jpg' width='180' height='207' class='dib mar_b10' alt='Carátula de Army of Two: The 40th Day - PS3' /></span></div><div class='vat w100_480 mar_l0_480 a_n' style='margin-left:200px' id='gs_resumen'><div class='linea_c mar_b6 dn cb db480 wi100'></div><h1 class='s22'>Army of Two: The 40th Day</h1><div class='he10'></div><div class='dt fftit s14'><div class='dtc vam wi40 pad_r4'>
+    <a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/analisis'>
+        <div class='pr bg_c2c br50 t0 wi38 he38'>
+            <img src='https://i.3djuegos.com/img3/logos/30/white.png' class='pr t4 l5'>
+        </div>
+    </a>
+</div>
+<div class='dtc vam'>
+    <a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/analisis' class='c0 fw5'>Analisis</a>
+    <div class='mar_t2 s13'>“Muy Bueno”</div>
+</div>
+<div class='dtc wi20'></div><div class='dtc vam wi40 pad_r4'><div class='cF pr bg_c2c tac s18 fftext br50 t0 wi38 he38'><span class='pr t6'>8,6</span></div></div><div class='dtc vam'><span class='uAr06vA 1F4DC3434C4FC21F4A494A4846C246C21F484342CB4FC143C21F232123221F201F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F c0 fw5'>Usuarios (40)</span><div class='estrellas_off_16o mar_t2'><div class='estrellas_on_16o' style='width:72px'></div></div></div></div><div class='lin10'></div><dl><dt>También para:</dt><dd><span class='c4c n' >Xbox 360</span>, <span class='c6c n' >PSP</span></dd><dt>Comprar Para:</dt><dd><span class='lh20'><a href='https://www.xtralife.com/producto/-/6533' rel="nofollow, sponsored" target="_blank" class='c2c u' style='font-weight:bold'> PS3 por solo 19,99€</a></span><div class=''><a href='https://www.xtralife.com/producto/-/6534' rel="nofollow, sponsored" target="_blank" class='c4c lh20 u' style='font-weight:bold'>Xbox 360 por 19,99€</a><br><a href='https://www.xtralife.com/producto/-/6535' rel="nofollow, sponsored" target="_blank" class='c6c lh20 u' style='font-weight:bold'>PSP por 9,99€</a><br></div></dd><dt>Desarrollador:</dt><dd><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4B43C24AC1C14F48484A4B4FC11F434A1E4E4F49CBC1434A481F201F col_plat'>EA Montreal</span></dd><dt>Editor:</dt><dd><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4B46C2CBC14641C3464B4FC11F434A1F201F col_plat'>EA</span></dd></dl><div class='lin10'></div><dl><dt class='edit_tematicas' data-id_juego='5253'>Género:</dt><dd><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1FC0C2221F4DC3434C4FC21E4A4242464F491F col_plat' title='Juegos de Acción'>Acción</span>, <a href='https://www.3djuegos.com/ps3/juegos-accion-shooter/' title='Juegos de disparos, juegos de shooter'>Shooter</a>, <a href='https://www.3djuegos.com/ps3/juegos-accion-accion-tactica/' title='Juegos de acción táctica, simuladores bélicos'>Acción táctica</a> <span class='c6 a_c6'>(<a href='https://www.3djuegos.com/tematicas/juegos-modernos/0/' title="Juegos Modernos">Moderno</a>)</span></dd><dt>Jugadores:</dt><dd>1-8 (Competitivo: 2-8 / Cooperativo: 2)</dd><dt>Idioma:</dt><dd>Manual en español, textos en español y voces en español</dd></dl><div class='lin10'></div><dl><dt>Lanzamiento:</dt><dd>28 de enero de 2010 <span class='c6'>(Pegi: +18)</span></dd></dl></div></div><div class='cb'></div><div class='lin10'></div><p class='s14 lh20 c2 mar_t15 mar_b10 fftit edit_desc' id='adpepito' data-id_juego='5253'>Segunda entrega del título de EA, Army of Two. El juego nos emplaza en Shangai, donde Salem y Rios deberían sobrevivir a un asalto masivo sobre la ciudad que, una vez más, pondrá a prueba las dotes para el combate de los dos mercenarios.</p></article><div class='no_select caja_gris_opc_p1 mar_t16 pr tac fftit'><div class='dt wi100'><div class='dtc pad_8 pad_b1'><div class='dib pad_b7'><span class='ico_mas mar_r4 mar_l12 dib'></span><span onclick="dialogo('Seguir / Editar Juego', 'juegos', 'get_info=ver_opciones_juego&desde=revista&id_juego=5253&zona=juegos-ficha&id_perfil=0');" class='s14 c0 mar_r12 nw fftit b dib cur_p uhover nw'>Seguir juego</span></div><div class='dib pad_b7'><span class='ico_comentar mar_r4 mar_l12 dib'></span><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F444FC14F1E4B431F2B2620221F201F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F s14 c0 mar_r12 nw fftit b dib'>Foro de este juego</span></div></div></div></div><div class='he30'></div><div class='borDD mar_b14 br3 bgcFC fftit'><div class='pad_4 borF br3'><div class='dt wi100 s12 c6'><div class='dtc vam wi52'><div class='br3 oh wi48'><img data-src='https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165040.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165040.jpg')" class='mar_b1' width='48' height='30' alt='40th' /><img data-src='https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165043.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165043.jpg')" class='mar_b1' width='48' height='30' alt='EA' /><img data-src='https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165046.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165046.jpg')"  width='48' height='30' alt='Army' /></div></div><div class='dtc vam a_n pad_l5 pad_r4'><div class='s14 mar_b1 b c2'>Universo</div><a href='https://www.3djuegos.com/universo/0f0f0f0/70/army-of-two/'>Juegos de Army of Two</a><div class='lin8'></div><div class='s14 mar_b1 b c2'>Conexiones</div><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F424F4943C5464F4943C21F col_plat'>Resumen</span> | <span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F424F4943C5464F4943C21F43C5C04A49C2464F4943C21F col_plat'>DLC y expansiones</span> | <span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F424F4943C5464F4943C21FC3C2C34AC1464FC21F col_plat'>Comunidad</span> | <span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F424F4943C5464F4943C21F4DC3434C4FC21EC04AC14342464B4FC21F col_plat'>Alternativas</span></div></div></div></div></div>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "VideoGame",
+    "name": "Army of Two: The 40th Day",
+    "headline": "Army of Two: The 40th Day",
+    "url": "https://www.3djuegos.com/juegos/army-of-two-the-40th-day/",
+    "datePublished": "2010-01-28",
+    "applicationCategory": "Game",
+    "description": "Army of Two: The 40th Day para PS3. Todas las noticias, videos gameplay, imágenes, fecha de lanzamiento, análisis, opiniones, guías y trucos sobre Army of Two The 40th Day en 3DJuegos. Segunda entrega del título de EA, Army of Two. El juego nos emplaza en Shangai, donde Salem y...",
+    "publisher": [
+        "EA Montreal",
+        "EA"
+    ],
+    "gamePlatform": "PS3",
+    "operatingSystem": "PlayStation 3",
+    "genre": [
+        "Acción",
+        "Shooter",
+        "Acción táctica"
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 8,
+        "bestRating": 10,
+        "worstRating": 0,
+        "ratingCount": 975
+    },
+    "image": "https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695747.jpg",
+    "thumbnailUrl": "https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695747.jpg",
+    "contentRating": "PG-18",
+    "numberOfPlayers": "1-8 (Competitivo: 2-8 / Cooperativo: 2)",
+    "author": {
+        "@type": "Organization",
+        "name": "EA Montreal",
+        "url": "http://www.ea.com/"
+    },
+    "sameAs": "http://www.armyoftwo.com/home.action",
+    "offers": {
+        "@type": "Offer",
+        "price": "9,99",
+        "priceCurrency": "EUR",
+        "itemCondition": "NewCondition"
+    },
+    "keywords": "Ficha, Army of Two: The 40th Day, PS3, Acción, Shooter, Acción táctica, EA Montreal, EA"
+}
+</script>
+<div class='he20'></div><div class='mar_rl10'><div class='dt wi100'><div class='ffnav upp s24 s24_600 b mar_b2 c0 dtc'><h2>Videos</h2></div></div><div class='linea_c mar_b14'></div></div><div class='tar '><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/videos/' class='ffnav pag_mas bg_col_plat dib s15 nw n' title="Vídeos de Army of Two: The 40th Day para PS3"><div class='vam dib'>Más videos (13)</div><div class='f_page_der'></div></a></div><div class='he20'></div><div class='mar_rl10'><div class='dt wi100'><div class='ffnav upp s24 s24_600 b mar_b2 c0 dtc'><h2>Imágenes</h2></div></div><div class='linea_c mar_b14'></div></div><div class='mar_l10 mar_r6 mar_t5 mar_b20'><div class='img_alfa oh wi100 img_media_ficha'><figure onclick='abre_visor_img(5253, 1065475)' data-init='true'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065475.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065475.jpg')" alt='Army of Two The 40th Day - Imagen' width='140' height='105' class='img_wh_auto' /></figure><figure onclick='abre_visor_img(5253, 1065477)' data-init='true'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065477.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065477.jpg')" alt='Army of Two The 40th Day - Pantalla' width='140' height='105' class='img_wh_auto' /></figure><figure onclick='abre_visor_img(5253, 1065479)' data-init='true'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065479.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065479.jpg')" alt='Army of Two The 40th Day - Imagen PS3' width='140' height='105' class='img_wh_auto' /></figure><figure onclick='abre_visor_img(5253, 1065481)' data-init='true'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065481.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065481.jpg')" alt='Army of Two The 40th Day ' width='140' height='105' class='img_wh_auto' /></figure><figure onclick='abre_visor_img(5253, 1065483)' data-init='true'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065483.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065483.jpg')" alt='Army of Two The 40th Day - Imagen' width='140' height='105' class='img_wh_auto' /></figure><figure onclick='abre_visor_img(5253, 1065485)' data-init='true'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065485.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065485.jpg')" alt='Army of Two The 40th Day - Pantalla' width='140' height='105' class='img_wh_auto' /></figure><figure onclick='abre_visor_img(5253, 1065487)' data-init='true'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065487.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065487.jpg')" alt='Army of Two The 40th Day - Imagen PS3' width='140' height='105' class='img_wh_auto' /></figure><figure onclick='abre_visor_img(5253, 1065489)' data-init='true'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065489.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/set/army_of_two_40th-1065489.jpg')" alt='Army of Two The 40th Day ' width='140' height='105' class='img_wh_auto' /></figure><span class='db cb'></span></div><div class='tar mar_t10'><a href='https://www.3djuegos.com/juegos/army-of-two-the-40th-day/imagenes/' class='ffnav pag_mas bg_col_plat dib s15 nw n' title="Imágenes de Army of Two: The 40th Day"><div class='vam dib'>Más imágenes (86)</div><div class='f_page_der'></div></a></div></div><div class='mar_rl12 pr mar_b26 img_br2'><div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript" data-vendor="iab:42">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script></div><div class='he20'></div><div class='mar_rl10'><div class='dt wi100'><div class='ffnav upp s24 s24_600 b mar_b2 c0 dtc'>Foro del juego</div></div><div class='linea_c mar_b14'></div></div><div class='mar_6 s11 c3 img_br50 img_fl img42 fftit mar_b15'><div class='a_s16 c6 a_c2'><div class='dtf wi100 mar_b10'><div class='dtc wi60'><img src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' data-src='https://i.3djuegos.com/files_comunidad/6827/img/avatars/11125872-34087.jpg' class='mar_l4' alt=''></div><div class='dtc vam break'><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F444FC14FC21FCB434E4A1F252A26242A24231F201F424F4E4F1E42C1434AC11EC3494A1E4E4AC2424AC14A1E43491E4AC14EC61E4F441ECBCC4F1E2B20CB451E4B4AC6C21EC61E4349C4464AC1484A1E4A481E4DC3434C4F1F b col_plat'>Como crear una mascara en army of two: 40th days y enviarla al juego.</span></div></div><div class='dtf wi100 mar_b10'><div class='dtc wi60'><img src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' data-src='https://i.3djuegos.com/files_comunidad/7810/img/avatars/356732-52567.jpg' class='mar_l4' alt=''></div><div class='dtc vam break'><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F444FC14FC21FCB434E4A1F2A2520222221201F201F4B4F494B431E43C2CB4A491E484FC21E4C4ACB4FC21E4B1E4E46C5CB4A1F b col_plat'>Donde estan los gatos d mixta</span></div></div><div class='dtf wi100 mar_b10'><div class='dtc wi60'><img src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' data-src='https://i.3djuegos.com/files_comunidad/1923/img/avatars/143514-14535.jpg' class='mar_l4' alt=''></div><div class='dtc vam break'><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F444FC14FC21FCB434E4A1F2220222222232A1F201FCAC34643C143C21E42C1434AC11EC3494A1E4E4AC2424AC14A1E4ACAC3461ECB431E484F1E43C5C04846424F1F b col_plat'>Quieres crear una mascara? aqui te lo explico</span></div></div><div class='dtf wi100 mar_b10'><div class='dtc wi60'><img src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' data-src='https://i.3djuegos.com/files_comunidad/4099/img/avatars/8904116-9426.jpg' class='mar_l4' alt=''></div><div class='dtc vam break'><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F444FC14FC21FCB434E4A1F2224262C2A21251F201FCBC1C3424FC21EC04AC14A1E4AC14EC61E4F441ECBCC4F1F b col_plat'>Trucos para Army Of Two</span></div></div><div class='dtf wi100 mar_b10'><div class='dtc wi60'><img src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' data-src='https://i.3djuegos.com/files_comunidad/3277/img/avatars/5833187-40510.jpg' class='mar_l4' alt=''></div><div class='dtc vam break'><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F444FC14FC21FCB434E4A1F2A26262C252B2A2C1F201FCAC3431E4AC14EC61E4F441ECBCC4F1E43C21E4E434D4FC11F b col_plat'>Que army of two es mejor???</span></div></div><div class='linea_c mar_tb16 mar_r4 mar_l4'></div></div><div class='mar_rl4 c4 mar_t12  lh18 s15'><p><span class='s16 mar_b6 c1 ffnav dib b'>Participa en el foro de este juego</span><br>Si eres un fuera de serie o todo un crack con “Army of Two: The 40th Day” de PlayStation 3, o simplemente quieres intercambiar tus trucos, guías o dudas sobre este juego, no lo dudes, pásate por su foro.</p></div></div><div class='tar mar_b20'><a href='https://www.3djuegos.com/foro-de/4903/0/army-of-two-the-40th-day/' class='ffnav pag_mas bg_col_plat dib s15 nw n' title="Foro de Army of Two The 40th Day"><div class='vam dib'>Foro de Army of Two The 40th Day</div><div class='f_page_der'></div></a></div></div><div class='cen2'></div><div class='der2 columna_312_bg pr'><div class='columna_312_ini_gris'></div><div class='cb he1'></div><div class='s0 wi100 tac ad ad-atf'><div class='tac  dib ad-box' id='dfp-atf'> <script> googletag.cmd.push(function() { googletag.display('dfp-atf'); }); </script> </div></div><div class='caja_der mar_der'><div class='barra31 mar_1 ffnav upp'><div class='txt nw oh'>Tienda</div></div><div class='mar_rl7 mar_t6 s14 c6 fftit'><div class='dt wi100 mar_b14'><div class='dtc vam c0'><b>Army of Two: The 40th Day</b><p class='s12 mar_t6 c5'>¡No busques más! te ofrecemos el mejor precio.</p></div><div class='dtc vat tar'><span class='dib'><img data-src='https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695750.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/3923/army_of_two_40th/fotos/ficha/army_of_two_40th-1695750.jpg')" width='60' height='69' alt="Army of Two: The 40th Day" /></span></div></div><div class='wi100 pr db ffnav s11 mar_b6  c2'>Tienda<div class='pa t0' style='right:60px'>Plataforma</div><div class='pa t0 r0'>Precio</div></div><div class='linea_c'></div><a href='https://www.xtralife.com/producto/-/6533' class='wi100 pr db ffnav' target='_blank' rel='nofollow, sponsored' onclick='handle_tienda_click("xtralife", "Army of Two The 40th Day para PS3");'><img data-src='https://i.3djuegos.com/img3/piezas/iconos/tienda/xtralife2.png' src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' height='30' alt=''><div class='pa t7 vam' style='right:70px'><span class='plats2 bg_c2c'><span>PS3</span></span></div><div class='pa t6 r0 b c0'>19,99€</div></a><a href='https://www.xtralife.com/producto/-/6534' rel='nofollow, sponsored'  class='wi100 pr db ffnav' target='_blank' onclick='handle_tienda_click("xtralife", "Army of Two The 40th Day para PS3");'><img data-src='https://i.3djuegos.com/img3/piezas/iconos/tienda/xtralife2.png' src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' height='30' alt=''><div class='pa t7 vam' style='right:70px'><span class='plats2 bg_c4c'><span>X360</span></span></div><div class='pa t6 r0 b c0'>19,99€</div></a><a href='https://www.xtralife.com/producto/-/6535' rel='nofollow, sponsored'  class='wi100 pr db ffnav' target='_blank' onclick='handle_tienda_click("xtralife", "Army of Two The 40th Day para PS3");'><img data-src='https://i.3djuegos.com/img3/piezas/iconos/tienda/xtralife2.png' src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' height='30' alt=''><div class='pa t7 vam' style='right:70px'><span class='plats2 bg_c6c'><span>PSP</span></span></div><div class='pa t6 r0 b c0'>9,99€</div></a></div></div><div class='caja_der mar_der'><div class='barra31 mar_1 mar_b3 ffnav upp'><div class='txt nw oh'>Valoración y estadísticas</div></div><div class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F4A494A4846C246C2'><div class='bg_pat_pl2 val_der ts11102'><div><img src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' data-src='https://i.3djuegos.com/img3/stamps/66/rec.png' class='img_stamp_module' height='66px' width='66px' alt='Recomendado'></div><div class='fl s14 b wi204'><div class='mar_t7 s12 c2o n'>Valoración 3DJuegos</div>“Muy Bueno”</div><img src='https://i.3djuegos.com/img3/logos/small.png' style='float:right; margin-right:4px; margin-top:-32px;'></img></div></div><div class='s11 mar_rl2 mar_t4 br3 bgcEF fftit' style='padding:0 0 4px 3px'><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F46494B43C519C045C02FCD4F494A2E224B4DC3434C4FC214C2C341CD4F494A2EC246C2CB434E4A1EC44A484FC14A42464F49 c6 c0h n pad_t8 mar_r5 fr ts110F9'>Sobre el sistema de valoración</span><span class='uAr06vA 1F444FC14FC21F46494B43C519C045C02FCD4F494A2E43C242C1464146C114464B3F444FC14F2E2B26202214C1434A494A4846C246C22E2A1449462E2A14C143CB4FC1494F2E45CBCBC0C21322BA1321B41321B4CCCCCC19224B4DC3434C4FC219424F4E1321B446494B43C519C045C01322B4CD4F494A1322BB4DC3434C4FC21E4A494A4846C246C21322B1464B3F4DC3434C4F1322BB232123221322B1C04A4C431322BB201322B1484342CB4FC143C21322BB2A boton b_s11 mar_t3'>Escribe tu análisis</span></div><div class='mar_tb2 mar_l6 mar_r6 fftit'><div class='he4'></div><div class='fr s20 b'>8,6</div><div class='s14 pad_t7 b'>Análisis lectores <div class='ico_usu_comentar mar_l4 dib'></div><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4A494A4846C246C21F484342CB4FC143C21F232123221F201F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F s12 mar_l4'>(2 análisis)</span></div><table class='tb100 s12 cb tabla_val a_n fftit'><tr><td colspan='2'><div class='lin8'></div></td></tr><tr><td class='td1'>Popularidad:</td><td class='pad_t2 d_fl vat'><div>Inexistente</div><div class='grbg pr t4 l4'><div class='barra' style='width:0px'></div></div><span class='uAr06vA 1F46494B43C519C045C02FCD4F494A2E224B4DC3434C4FC214C2C341CD4F494A2EC246C2CB434E4A1EC04FC0C3484AC1464B4A4B s11 c7 fr'>¿Qué es?</span></td></tr><tr><td class='td1'>Ranking:</td><td><span class='ico_sube fl pr t2 mar_r3'></span>33523 de 41585 juegos</td></tr><tr><td colspan='2'><div class='lin8'></div></td></tr><tr><td colspan='2' class='c7'><div class='c2 b mar_b2'>En la comunidad:</div><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F424F4943C5464F4943C21FC3C2C34AC1464FC21F col_plat'>Usuarios (697)</span> | <span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F424F4943C5464F4943C21F4CC1C3C04FC21E42484A4943C21F col_plat'>Grupos y clanes (8)</span> | <span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4DC3434C4FC21F4AC14EC61E4F441ECBCC4F1ECB45431E2B20CB451E4B4AC61F424F4943C5464F4943C21F col_plat'>Más</span></td></tr><tr><td colspan='2'><div class='lin8'></div></td></tr></table><div id='expectativas' class='fftit'><div class='s14 fl pad_t4 c2'><b>Expectativas / Valoración</b> <span class='s10 c6'>(<span>975</span> votos)</span></div><div class='tar s20 b mar_b4'>8,2</div><div class='dt'><div class='dtc b nw vam pad_r8'>Tu voto:</div><div class='dtc wi100'><div id='votos_movil' class='mar_t4 mar_b6 dt tac wi100 oh b fftit s18 c8 cur_p br4'><span id='voto_nn1' class='votos_expec'>1</span><span id='voto_nn2' class='votos_expec'>2</span><span id='voto_nn3' class='votos_expec'>3</span><span id='voto_nn4' class='votos_expec'>4</span><span id='voto_nn5' class='votos_expec'>5</span><span id='voto_nn6' class='votos_expec'>6</span><span id='voto_nn7' class='votos_expec'>7</span><span id='voto_nn8' class='votos_expec'>8</span><span id='voto_nn9' class='votos_expec'>9</span><span id='voto_nn10' class='votos_expec'>10</span></div></div></div><script> jsr.push(function() {vota_juego(5253,2)});  </script></div></div></div><div class='caja_der mar_der'><div class='bg_c0c he29 br3 mar_1 ffnav upp' style='box-shadow: 0 0 1px rgb(0 0 0 / 40%);'>
+<div class='s14 lh16 nw b cF pad_t6 pad_l10'>Suscríbete a nuestra newsletter:</div>
+</div>
+<div class='pad_8'>
+    <p class='pad_b7'>Recibe un recopilatorio diario y/o semanal de las noticias publicadas:</p>
+    <form class='js-subscription' action='//feedburner.google.com/fb/a/mailverify' method='post' target='popupwindow' data-url='https://mailer.weblogssl.com/subscribe_check/#email#/3djuegos_#type#/3djuegos'>
+        <p>
+            <input class='newsletter-input' type='email' name='user_email' placeholder='Tu correo electrónico'>
+        </p>
+        <p>
+        <br />
+            <input class='vab' type='radio' name='subscription_type' value='daily' checked='checked'> Diaria (Recibe todas las noticias publicadas en las últimas 24h para no perderte nada) <br /><br />
+            <input class='vab' type='radio' name='subscription_type' value='weekly'> Semanal (Recibe cada viernes las 10 mejores noticias publicadas desde el último viernes a modo resumen)
+        </p>
+        <p style='padding-right:3px'>
+        <br />
+            <button class='bg_c0c' type='submit' style='padding: 0 11px;font-weight: normal;border-radius: 10px;height: 34px;line-height: 38px;color: #fff; width:100%; '>  SUSCRIBIR</button>
+        </p>
+    </form>
+    <p class='s10 lh13 c7 mar_t10'>No es spam. No compartiremos su correo electrónico. Puede darse de baja en cualquier momento.</p>
+</div></div><script>
+var emailPattern = /^[a-z0-9\-._+]+@[a-z0-9\-.]+\.[a-z0-9]+$/i;
+
+var elem = document.querySelector('.js-subscription');
+elem.addEventListener('submit', function (e) {
+    e.preventDefault();
+
+    var form = document.querySelector('.js-subscription');
+    var email = form.elements['user_email'].value;
+    var type = form.elements['subscription_type'].value;
+    if (emailPattern.test(email)) {
+        var url = form.getAttribute('data-url').replace('#email#', email).replace('#type#', type);
+        window.open(url, 'subscription', 'width=500,height=500');
+        form.elements['user_email'].value = '';
+    } else {
+        alert('El correo electrónico introducido no es correcto');
+    }
+});
+</script><div class='cb he1'></div><div class='s0 wi100 tac ad ad-mtf'><div class='tac  dib ad-box' id='dfp-mtf'> <script> googletag.cmd.push(function() { googletag.display('dfp-mtf'); }); </script> </div></div><div class='caja_der mar_der'><div class='barra31 mar_1 ffnav upp'><div class='txt nw oh'>Universo relacionado</div></div><div class='mar_t7 mar_b8 fftit tac'><div class='b_avatar_alfa dib' style='width:212px'><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1FC34946C443C1C24F1F204420442044201F2C201F4AC14EC61E4F441ECBCC4F1F' title='Juegos de Army of Two'><img data-src='https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165045.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165045.jpg')" width='70' height='44' alt='Army of Two' class='fl ' /><img data-src='https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165042.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165042.jpg')" width='70' height='44' alt='Army of Two' class='fl mar_l1' /><img data-src='https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165039.webp' onerror="image_on_error(this, 'https://i.3djuegos.com/juegos/5878/_universos_/fotos/ficha/_universos_-1165039.jpg')" width='70' height='44' alt='Army of Two' class='fl mar_l1' /></span></div><div class='s15 b mar_t7 mar_b2 ffnav'>Universo Army of Two</div><a href='https://www.3djuegos.com/universo/0f0f0f0/70/army-of-two/' class='col_plat n s12'>Consulta este universo formado por 9 juegos</a></div></div><div class='mar_t20 zona_fixed wi100'><div class='cb he1'></div><div class='s0 wi100 tac ad ad-btf'><div class='tac  dib ad-box' id='dfp-btf'> <script> googletag.cmd.push(function() { googletag.display('dfp-btf'); }); </script> </div></div></div></div></div></div></div></div><div id='pie_video' class='tac'><div style='max-width:640px; padding:8px 0 9px;' class='dib wi100' id='pie_video_inte'><div style='padding-bottom:56.25%;padding-top:26px;'></div></div><div class='wi100 tac' id='pie_pub_google' style='padding:8px 0 8px'><div class='cb he1'></div><div class='s0 wi100 tac ad ad-footer'><div id='dfp-footer' class='tac dib ad-box'> <script> googletag.cmd.push(function() { googletag.display('dfp-footer'); }); </script> </div></div></div></div>
+
+	<script>
+		jsr.push(function() {
+
+			var cargado_video_pie = 0;
+			$(window).scroll(scroll_pie_video);
+
+			function isInViewPie(elem) {
+
+				if (img_ni_load==0)
+					return;
+
+				var ele = $(elem), xtra=40;
+				var lBound = $(window).scrollTop(), uBound = lBound + $(window).height(), top = ele.offset().top-xtra, bottom = top + ele.outerHeight(true)+xtra;
+				return (top > lBound && top < uBound) || (bottom > lBound && bottom < uBound) || (lBound >= top && lBound <= bottom) || (uBound >= top && uBound <= bottom);
+			}
+
+			function scroll_pie_video()	{
+				if (isInViewPie('#pie_video')) {
+					if (cargado_video_pie==0) {
+						cargado_video_pie = 1;
+						var fig = '<div class="ffnav cF s16 s14_600 tac">Video Destacado: <span class="fw4">Tráiler y fecha de lanzamiento de The Walking Dead: Destinies</span></div><div class="he6"></div><figure data-config="{&quot;tipo&quot;:&quot;video&quot;,&quot;id_video&quot;:57645,&quot;id_juego&quot;:&quot;43753&quot;,&quot;test_adb&quot;:0,&quot;movil&quot;:0,&quot;imagen&quot;:&quot;https:\/\/i.3djuegos.com\/juegos\/19269\/the_walking_dead_destinies\/fotos\/videos\/the_walking_dead_destinies-5844730.jpg&quot;,&quot;url_vid&quot;:&quot;x8oycnf&quot;,&quot;nombre_juego&quot;:&quot;The Walking Dead Destinies&quot;,&quot;nombre_video&quot;:&quot;Tr\u00e1iler y fecha de lanzamiento de The Walking Dead: Destinies&quot;,&quot;autostart&quot;:&quot;true&quot;,&quot;puede_play_on_scroll&quot;:0,&quot;play_on_visible&quot;:0,&quot;audio_foco&quot;:1,&quot;sources&quot;:&quot;[]&quot;,&quot;tracks&quot;:&quot;{}&quot;,&quot;sharing&quot;:0,&quot;related&quot;:0,&quot;url_juego&quot;:&quot;\/juegos\/the-walking-dead-destinies\/&quot;,&quot;url_video&quot;:&quot;\/43753f57645\/video\/trailer-fecha-lanzamiento-the-walking-dead-destinies\/&quot;,&quot;mute&quot;:&quot;true&quot;,&quot;pgid&quot;:&quot;[video_pgid]&quot;,&quot;ga_tipo_play&quot;:&quot;auto-play-on-scroll&quot;,&quot;ga_lugar&quot;:&quot;bottom&quot;,&quot;ga_tit_video&quot;:&quot;Tr\u00e1iler y fecha de lanzamiento de The Walking Dead: Destinies&quot;,&quot;ga_segundos&quot;:&quot;97&quot;,&quot;formato&quot;:&quot;dailymotion&quot;}" class="you_padre es_Html cb wi100" id="video_iframe"></figure>';
+						$('#pie_video_inte').html(fig);
+						data_config_init();
+					} else {
+                        if ('dailymotion' == 'dailymotion') {
+                            setTimeout(function() {
+                                window.player.play();
+                                window.player.setMuted(true);
+                            }, 250);
+                        } else {
+                            setTimeout(function() {
+                                if ('playing' !== jwplayer('jwvideo_57645').getState()) {
+                                    jwplayer('jwvideo_57645').setVolume(0);
+                                    jwplayer('jwvideo_57645').play();
+                                }
+                            }, 250);
+                        }
+					}
+				} else {
+					if (cargado_video_pie==1) {
+						if (!screenfull.isFullscreen) {
+                            if ('dailymotion' == 'dailymotion') {
+                                setTimeout(function() {
+                                    window.player.pause();
+                                }, 250);
+                            } else {
+                                jwplayer('jwvideo_57645').setVolume(0);
+                                setTimeout(function() {
+                                    if ('paused' !== jwplayer('jwvideo_57645').getState()) {
+                                        jwplayer('jwvideo_57645').pause();
+                                    }
+                                }, 250);
+                            }
+						}
+					}
+				}
+			}
+
+		});
+
+	</script><div id='pie' class='bgc0'><div class='wi100'><div class='he4 bgc19'></div><div class='he20'></div><footer><div class='pie_col'><p class='pie_tit_secc ffnav'></p><ul><li><a href='/novedades/noticias/juegos/0f0f0f0/fecha/'>Noticias</a></li><li><a href='/novedades/analisis/juegos/0f0f0f0/fecha/'>Análisis</a></li><li><a href='/novedades/especiales/juegos/0f0f0f0/fecha/'>Artículos</a></li><li><a href='/trucos-juegos/0/todos/'>Trucos</a></li></ul></div><div class='pie_col'><p class='pie_tit_jue ffnav'></p><ul><li><a href='/lanzamientos/'>Lanzamientos</a></li><li><a href='https://www.3djuegos.com/juegos/'>Todos los juegos</a></li><li><a href='https://www.3djuegos.com/top-100/'>Top 100 Juegos</a></li><li><a href='/novedades/analisis/juegos/0f0f0f0/juegos-populares/'>Valoración</a></li></ul></div><div class='pie_col'><p class='pie_tit_comu ffnav'></p><ul><li><span class='uAr06vA 1F444FC14FC21F txt_foros'></span></li></ul></div><div class='pie_col'><p class='pie_tit_3dj ffnav'></p><ul><li><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1FCAC346434943C21EC24F4E4FC21F txt_sobre'></span></li><li><span class='uAr06vA 4E4A4648CB4F2DC0C341484642464B4A4BB0CC4341434B464A1E4CC14FC3C019424F4E txt_publi'></span></li><li><span class='uAr06vA 1F46494B43C519C045C02FCD4F494A2E224B4DC3434C4FC214C2C341CD4F494A2E4649444FC14E4A42464F491E48434C4A48'>Información legal</span></li><li><span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F424F49CB4A42CB4F1F txt_contacto'></span></li></ul></div><div class='cb he4 bgc19'></div><div class='he20'></div><div class='cb c5 pr'><span class='uAr06vA 1F' id='juegos' title='Videojuegos'>Juegos</span>© 3DJUEGOS S.L. 2005-2023. <span class='txt_allderechos'></span>. <span class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1FCAC346434943C21EC24F4E4FC21F'>SOBRE 3DJUEGOS</span> | <span class='uAr06vA 1F46494B43C519C045C02FCD4F494A2E224B4DC3434C4FC214C2C341CD4F494A2E4649444FC14E4A42464F491E48434C4A48 upp'>INFORMACIÓN LEGAL</span><div class='pa r10 pie_tit_marca' style='top:-11px'> <img src='data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=' data-src='https://i.3djuegos.com/img3/piezas/armazon/logo_webedia.png' class='dib pr mar_l4' style='top:8px' width='87' height='22' alt=''></div></div><div class='he40'></div><div class='fftit s13 lsn ul_pie wi100 lh21 tal a_c7'><div class='mar_b20 mar_l14'><p class='b upp cA ffnav s14'>Tecnología</p><ul><li><a href='https://www.xataka.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Xataka</a></li><li><a href='https://www.xatakamovil.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Xataka Móvil</a></li><li><a href='https://www.xatakafoto.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Xataka Foto</a></li><li><a href='https://www.xatakandroid.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Xataka Android</a></li><li><a href='https://www.xatakahome.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Xataka Smart Home</a></li><li><a href='https://www.xatakawindows.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Xataka Windows</a></li><li><a href='https://www.xatakaciencia.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Xataka Ciencia</a></li><li><a href='https://www.applesfera.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Applesfera</a></li><li><a href='https://www.genbeta.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Genbeta</a></li><li><a href='https://magnet.xataka.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Magnet</a></li></ul></div><div class='mar_b20 mar_l14'><p class='b upp cA ffnav s14'>Videojuegos</p><ul><li><a href='https://www.3djuegos.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>3DJuegos</a></li><li><a href='https://www.3djuegospc.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>3DJuegos PC</a></li><li><a href='https://www.3djuegosguias.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>3DJuegos Guías</a></li><li><a href='https://www.3djuegos.lat/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>3DJuegos Latam</a></li><li><a href='https://www.vidaextra.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>VidaExtra</a></li><li><label>Millenium</label></li></ul></div><div class='mar_b20 mar_l14'><p class='b upp cA ffnav s14'>Entretenimiento</p><ul><li><a href='http://www.sensacine.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Sensacine</a></li><li><a href='https://www.espinof.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Espinof</a></li></ul></div><div class='mar_b20 mar_l14'><p class='b upp cA ffnav s14'>Gastronomía</p><ul><li><a href='https://www.directoalpaladar.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Directo al Paladar</a></li></ul></div><div class='mar_b20 mar_l14'><p class='b upp cA ffnav s14'>Estilo de Vida</p><ul><li><a href='https://www.vitonica.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Vitónica</a></li><li><a href='https://www.trendencias.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Trendencias</a></li><li><a href='https://www.trendenciashombre.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Trendencias Hombre</a></li><li><a href='https://decoracion.trendencias.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Decoesfera</a></li><li><a href='https://www.compradiccion.com/?utm_source=3djuegos&utm_medium=network&utm_campaign=footer'>Compradicción</a></li></ul></div></div><div class='cb he3 bgc19'></div><div class='pie_siguenos_a tac'><a href='https://discord.com/invite/gtgNXJFZ9q' target='_blank'><img src='https://i.3djuegos.com/img3/footer/icons/discord.png' class='pie_discord'>Discord</a><a href='https://www.tiktok.com/@3djuegos' target='_blank'><img src='https://i.3djuegos.com/img3/footer/icons/tiktok.gif' class='pie_tiktok'>TikTok</a><a href='https://www.youtube.com/3djuegos' target='_blank'><span class='pie_youtube'></span>YouTube</a><a href='https://www.facebook.com/3djuegos' target='_blank'><span class='pie_facebook'></span>Facebook</a><a href='https://twitter.com/3djuegos' target='_blank'><span class='pie_twitter'></span>Twitter</a><a href='https://www.instagram.com/3djuegos/' target='_blank'><span class='pie_instagram'></span>Instagram</a><div class='uAr06vA 45CBCBC0C22D1F1FCCCCCC19224B4DC3434C4FC219424F4E1F4443434B41C3C14943C119C54E48 txt_rss'><span class='pie_rss'></span></div></div></footer></div></div></div></div></div>
+<script>
+	jsr.push(function() {
+		forma_url();
+		load_imgs();
+
+		var isAdBlocked=false;
+		if ($('#pie_test_ads').length && $("#pie_test_ads").height()<10)
+			isAdBlocked=true;
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-353448-1', 'auto');
+		ga('set', 'contentGroup1', 'juegos-ficha'); 
+		ga('require', 'displayfeatures');
+		ga('set', 'dimension1', isAdBlocked ? 'adblock' : 'noblock');
+		ga('set', 'dimension2', isAdBlocked ? 'adblock' : 'noblock');
+		ga('set', 'dimension3', isAdBlocked ? 'adblock' : 'noblock');
+		ga('set', 'dimension49', document.referrer);
+		ga_set_juego();
+		ga('send', 'pageview');
+
+		if (isAdBlocked) {var z_skin = "get_skin"; var ruta_skin_ini="/index.php?"; $.get(ruta_skin_ini+"zona="+z_skin+"&zona_ref=juegos-ficha&ni=1", function(data) { $(".aqui_skin").prepend(data);}); }
+
+	});
+	function ga_set_juego() { ga('set', {'dimension21': 'game_overview', 'dimension7': '5253', 'dimension8': 'Army of Two The 40th Day', 'dimension9': '3923', 'dimension46': 'Army of Two 40th', 'dimension10': '2', 'dimension11': 'PS3', 'dimension12': '47', 'dimension13': 'EA', 'dimension14': '551', 'dimension15': 'EA Montreal', 'dimension16': '1', 'dimension17': 'Acción', 'dimension19': '18', 'dimension20': '+18', 'dimension18': '2010-01-28'});
+	}
+
+</script>
+<div id='dfp-oop' class='s0'> <script> googletag.cmd.push(function() { googletag.display('dfp-oop'); }); </script> </div><div id='dfp-interstitial' class='s0'> <script> googletag.cmd.push(function() { googletag.display('dfp-interstitial'); }); </script> </div>
+    <script>
+
+        
+	jsr.push(function() {
+
+		$(document).ready(function() {
+			init_botones();
+			init_fecha_hace();
+			init_pushstate();
+			
+			
+			hash_engine();
+			init_af();
+			init_tips();
+			new flexImages({selector: '#galeria_160', rowHeight: 160});
+		});
+	});
+	
+    </script>
+
+<script src='https://img.weblogssl.com/3djuegos/jsmain/batch/rest.js'></script><script type="text/javascript" data-vendor="iab:42">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script><div id='buffer'></div><div id='buffer2'></div></body></html>
+<!-- 0.14485 cachea q juegos-ficha -->
